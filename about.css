@@ -1,0 +1,49 @@
+body {
+    background-color: rgb(248, 241, 220);
+}
+
+.name {
+    font-size: 25px;
+    margin-top: 15px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.letters {
+    font-size: 30px;
+}
+
+.s {
+    color: #FF5722;
+}
+
+.u {
+    color: red;
+}
+
+.m {
+    color: #FF7043;
+
+}
+
+.a {
+    color: rgb(23, 171, 240);
+}
+
+.i {
+    color: #F48FB1;
+
+}
+
+.y {
+    color: #EC407A;
+}
+
+.a {
+    color: rgb(23, 171, 240);
+
+}
+
+.heart {
+    color: pink;
+}
