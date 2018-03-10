@@ -81,3 +81,11 @@ p {
       text-align: center;
       margin: 0 auto;
   }
+
+  .top {
+      margin-top: 40px;
+  }
+
+  .bottom {
+      margin-bottom: 15px;
+  }
